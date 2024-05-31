@@ -77,6 +77,9 @@ Bit operators work on 32 bits numbers. Any numeric operand in the operation is c
   - Example: `5 + ""` will convert the number `5` to the string `"5"`.
 
 # References
+
 [JavaScript.Info: Variables](https://javascript.info/variables)
+
 [JavaScript.Info: The old "var"](https://javascript.info/var)
+
 [W3Schools: JS Operators](https://www.w3schools.com/js/js_operators.asp)
