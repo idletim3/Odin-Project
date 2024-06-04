@@ -3,7 +3,7 @@
 Articles read during the learning progress.
 
 
-## General Programmming
+## General
 
 [YouTube - CodeAesthethic: Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 
@@ -17,7 +17,7 @@ Articles read during the learning progress.
 
 [W3Schools: JavaScript Arithmetic](https://www.w3schools.com/js/js_arithmetic.asp)
 
-
+[JavaScript Info: Data Types](https://javascript.info/types)
 
 ## Security
 
